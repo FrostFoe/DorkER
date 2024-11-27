@@ -1,0 +1,17 @@
+inurl:index.php?id
+inurl:category.php?id
+inurl:product.php?id
+inurl:news.php?id
+inurl:item.php?id
+inurl:details.php?id
+inurl:page.php?id
+inurl:show.php?id
+inurl:view.php?id
+inurl:search.php?id
+inurl:post.php?id
+inurl:profile.php?id
+inurl:content.php?id
+inurl:article.php?id
+inurl:shop.php?id
+inurl:catalog.php?id
+inurl:gallery.php?id
