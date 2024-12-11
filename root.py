@@ -7,7 +7,7 @@ from googlesearch import search as sr
 
 # Set the session start time and bot count
 ses_srt = t.time()
-bot_cnt = 5
+bot_cnt = 20
 
 # Function to calculate progress bar
 def pro(cr, tl, br_ln=30):
@@ -65,8 +65,8 @@ def ds_mn():
     🚨  DORKING TOOL MENU  🚨
       (Dorking Protocols)
 
-      !DORK <target>
-    Usage: DORK <target> <num_dorks>
+        !DORK <target>
+Usage: DORK <target> <num_dorks>
 """
     )
 
